@@ -19,7 +19,10 @@ The two major differences in this architecture compared to other state-of-the-ar
 
 The proposed approach was evaluated on FER2013 dataset which is publicly available on Kaggle. The results show that the proposed approach outperforms existing state-of-the-art methods in terms of accuracy, precision, recall, and F1-score. The proposed approach achieved an accuracy of 81.39% on FER2013 dataset. The result of this thesis demonstrates the effectiveness of using CNNs for facial expression detection. The proposed approach can be used in various applications such as emotion recognition, human-computer interaction and virtual reality.
 
+## Final Result:
+
+We can use Opencv library to capture the image in a real-time and predict the expression. After running the final piece of code i.e., webcam_test, we will get the below result:
 
 
-
+https://github.com/shivamsingh96/Facial-Expression-Detection-using-CNN-Real-Time-Recognition-with-Webcam/assets/123630632/f94ddf6a-a2ff-464e-8b42-e6bde0e7b734
 
